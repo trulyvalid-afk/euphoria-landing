@@ -75,28 +75,22 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <link rel='stylesheet' id='kadence-content-css' href='https://euphoriahall.ru/wp-content/themes/kadence/assets/css/content.min.css?ver=1.4.5' media='all' />
 <link rel='stylesheet' id='kadence-footer-css' href='https://euphoriahall.ru/wp-content/themes/kadence/assets/css/footer.min.css?ver=1.4.5' media='all' />
 <link rel='stylesheet' id='elementor-frontend-css' href='https://euphoriahall.ru/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.35.6' media='all' />
-<link rel='stylesheet' id='elementor-post-1042-css' href='https://euphoriahall.ru/wp-content/uploads/elementor/css/post-1042.css?ver=1772635231' media='all' />
+<link rel='stylesheet' id='elementor-post-1042-css' href='https://euphoriahall.ru/wp-content/uploads/elementor/css/post-1042.css?ver=1772710118' media='all' />
 <link rel='stylesheet' id='widget-image-css' href='https://euphoriahall.ru/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.35.6' media='all' />
 <link rel='stylesheet' id='widget-heading-css' href='https://euphoriahall.ru/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.35.6' media='all' />
 <link rel='stylesheet' id='swiper-css' href='https://euphoriahall.ru/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' media='all' />
 <link rel='stylesheet' id='e-swiper-css' href='https://euphoriahall.ru/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.35.6' media='all' />
 <link rel='stylesheet' id='widget-image-carousel-css' href='https://euphoriahall.ru/wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css?ver=3.35.6' media='all' />
 <link rel='stylesheet' id='widget-image-gallery-css' href='https://euphoriahall.ru/wp-content/plugins/elementor/assets/css/widget-image-gallery.min.css?ver=3.35.6' media='all' />
-<link rel='stylesheet' id='elementor-post-62-css' href='https://euphoriahall.ru/wp-content/uploads/elementor/css/post-62.css?ver=1772635231' media='all' />
+<link rel='stylesheet' id='elementor-post-62-css' href='https://euphoriahall.ru/wp-content/uploads/elementor/css/post-62.css?ver=1772710118' media='all' />
 <link rel='stylesheet' id='elementor-gf-roboto-css' href='https://fonts.googleapis.com/css?family=Roboto:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&#038;display=swap&#038;subset=cyrillic' media='all' />
 <link rel='stylesheet' id='elementor-gf-robotoslab-css' href='https://fonts.googleapis.com/css?family=Roboto+Slab:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&#038;display=swap&#038;subset=cyrillic' media='all' />
-<script src="https://euphoriahall.ru/wp-content/plugins/wp-yandex-metrika/assets/YmEc.min.js?ver=1.2.2" id="wp-yandex-metrika_YmEc-js"></script>
-<script id="wp-yandex-metrika_YmEc-js-after">
-window.tmpwpym={datalayername:'dataLayer',counters:JSON.parse('[{"number":"101579729","webvisor":"1"}]'),targets:JSON.parse('[]')};
-//# sourceURL=wp-yandex-metrika_YmEc-js-after
-</script>
 <script src="https://euphoriahall.ru/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
 <script src="https://euphoriahall.ru/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
-<script src="https://euphoriahall.ru/wp-content/plugins/wp-yandex-metrika/assets/frontend.min.js?ver=1.2.2" id="wp-yandex-metrika_frontend-js"></script>
 <link rel="https://api.w.org/" href="https://euphoriahall.ru/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://euphoriahall.ru/wp-json/wp/v2/pages/62" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://euphoriahall.ru/xmlrpc.php?rsd" />
 <meta name="generator" content="WordPress 6.9.1" />
 <link rel='shortlink' href='https://euphoriahall.ru/' />
-<meta name="verification" content="f612c7d25f5690ad41496fcfdbf8d1" /><meta name="generator" content="Elementor 3.35.6; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
+<meta name="generator" content="Elementor 3.35.6; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
 			<style>
 				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
 				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
@@ -115,38 +109,7 @@ window.tmpwpym={datalayername:'dataLayer',counters:JSON.parse('[{"number":"10157
 					}
 				}
 			</style>
-			        <!-- Yandex.Metrica counter -->
-        <script type="text/javascript">
-            (function (m, e, t, r, i, k, a) {
-                m[i] = m[i] || function () {
-                    (m[i].a = m[i].a || []).push(arguments)
-                };
-                m[i].l = 1 * new Date();
-                k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
-            })
-
-            (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
-
-            ym("101579729", "init", {
-                clickmap: true,
-                trackLinks: true,
-                accurateTrackBounce: true,
-                webvisor: true,
-                ecommerce: "dataLayer",
-                params: {
-                    __ym: {
-                        "ymCmsPlugin": {
-                            "cms": "wordpress",
-                            "cmsVersion":"6.9",
-                            "pluginVersion": "1.2.2",
-                            "ymCmsRip": "288325977"
-                        }
-                    }
-                }
-            });
-        </script>
-        <!-- /Yandex.Metrica counter -->
-        <link rel='stylesheet' id='kadence-fonts-gfonts-css' href='https://fonts.googleapis.com/css?family=Manrope:regular,700,500%7CGFS%20Didot:regular&#038;display=swap' media='all' />
+			<link rel='stylesheet' id='kadence-fonts-gfonts-css' href='https://fonts.googleapis.com/css?family=Manrope:regular,700,500%7CGFS%20Didot:regular&#038;display=swap' media='all' />
 		<style id="wp-custom-css">
 			.home .learndash-pager{
 	display:none;
@@ -356,6 +319,12 @@ window.tmpwpym={datalayername:'dataLayer',counters:JSON.parse('[{"number":"10157
 				Свадьба
 				</figcaption></figure><figure class='gallery-item'>
 			<div class='gallery-icon landscape'>
+				<img loading="lazy" decoding="async" width="640" height="427" src="https://euphoriahall.ru/wp-content/uploads/2026/03/image117-—-средний-размер.jpeg" class="attachment-medium_large size-medium_large" alt="" aria-describedby="gallery-1-1338" srcset="https://euphoriahall.ru/wp-content/uploads/2026/03/image117-—-средний-размер.jpeg 640w, https://euphoriahall.ru/wp-content/uploads/2026/03/image117-—-средний-размер-300x200.jpeg 300w" sizes="(max-width: 640px) 100vw, 640px" />
+			</div>
+				<figcaption class='wp-caption-text gallery-caption' id='gallery-1-1338'>
+				Семейный праздник
+				</figcaption></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
 				<img loading="lazy" decoding="async" width="640" height="427" src="https://euphoriahall.ru/wp-content/uploads/2026/03/image108-—-средний-размер.jpeg" class="attachment-medium_large size-medium_large" alt="" aria-describedby="gallery-1-1264" srcset="https://euphoriahall.ru/wp-content/uploads/2026/03/image108-—-средний-размер.jpeg 640w, https://euphoriahall.ru/wp-content/uploads/2026/03/image108-—-средний-размер-300x200.jpeg 300w" sizes="(max-width: 640px) 100vw, 640px" />
 			</div>
 				<figcaption class='wp-caption-text gallery-caption' id='gallery-1-1264'>
@@ -366,12 +335,6 @@ window.tmpwpym={datalayername:'dataLayer',counters:JSON.parse('[{"number":"10157
 			</div>
 				<figcaption class='wp-caption-text gallery-caption' id='gallery-1-1267'>
 				День рождения
-				</figcaption></figure><figure class='gallery-item'>
-			<div class='gallery-icon landscape'>
-				<img loading="lazy" decoding="async" width="640" height="427" src="https://euphoriahall.ru/wp-content/uploads/2026/03/image117-—-средний-размер.jpeg" class="attachment-medium_large size-medium_large" alt="" aria-describedby="gallery-1-1338" srcset="https://euphoriahall.ru/wp-content/uploads/2026/03/image117-—-средний-размер.jpeg 640w, https://euphoriahall.ru/wp-content/uploads/2026/03/image117-—-средний-размер-300x200.jpeg 300w" sizes="(max-width: 640px) 100vw, 640px" />
-			</div>
-				<figcaption class='wp-caption-text gallery-caption' id='gallery-1-1338'>
-				Семейный праздник
 				</figcaption></figure>
 		</div>
 		</div>
@@ -538,12 +501,7 @@ window.tmpwpym={datalayername:'dataLayer',counters:JSON.parse('[{"number":"10157
 				</div>
 				</div>
 				</div>
-		            <noscript>
-                <div>
-                    <img src="https://mc.yandex.ru/watch/101579729" style="position:absolute; left:-9999px;" alt=""/>
-                </div>
-            </noscript>
-            			<script>document.documentElement.style.setProperty('--scrollbar-offset', window.innerWidth - document.documentElement.clientWidth + 'px' );</script>
+					<script>document.documentElement.style.setProperty('--scrollbar-offset', window.innerWidth - document.documentElement.clientWidth + 'px' );</script>
 			<script type="speculationrules">
 {"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/kadence/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
 </script>
@@ -604,4 +562,4 @@ const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(
 </html>
 
 
-<!-- Page supported by LiteSpeed Cache 7.7 on 2026-03-05 14:21:23 -->
+<!-- Page supported by LiteSpeed Cache 7.7 on 2026-03-05 14:29:39 -->
